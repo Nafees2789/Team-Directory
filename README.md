@@ -10,8 +10,10 @@ These Project was developed by using the JSON data and created an impressive lay
 
 ## Available Insights
 
-- `Added the hover effects or animations to improve user experience.`
+- `Added the hover effects or animations to improve user experience`
 
 - `Added the Search Functionality`
 
 - `Added Font style Poppins`
+
+- `Developed the Website to be reponsive for the both the web view and mobile view`
