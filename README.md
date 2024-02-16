@@ -16,4 +16,4 @@ These Project was developed by using the JSON data and created an impressive lay
 
 - `Added Font style Poppins`
 
-- `Developed the Website to be reponsive for the both the web view and mobile view`
+- `Developed the Website to be responsive for the both the web view and mobile view`
